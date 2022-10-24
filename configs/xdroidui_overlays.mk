@@ -60,4 +60,5 @@ PRODUCT_PACKAGES += \
     XDSetupOverlay \
     NavigationBarModeGesturalOverlayFS \
     MediaProviderOverlay \
-    NoCombinedIconsOverlay
+    NoCombinedIconsOverlay \
+    DarkBgOverlay
